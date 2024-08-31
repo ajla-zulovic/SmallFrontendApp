@@ -1,0 +1,7 @@
+.wrapper{
+background-color: #EFECEA;
+
+}
+router-outlet {
+    margin-top: 20px; 
+  }

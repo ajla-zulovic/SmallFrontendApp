@@ -1,0 +1,14 @@
+.search-div{
+    text-align: center;
+}
+input{
+    margin-left: 10px;
+    width: 350px;
+    height: 35px;
+    border: none;
+    border-radius: 15px;
+}
+/* .changeBackground{
+    background-color: rgba(184, 204, 204, 0.197);
+    border-radius: 10px;
+} */

@@ -1,0 +1,13 @@
+p{
+    color: brown;
+    text-transform: uppercase;
+    font-weight: 200px;
+    padding: 20px;
+}
+.wrapper{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    /* background-color: white; */
+   
+}

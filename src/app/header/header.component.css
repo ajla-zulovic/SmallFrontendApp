@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    height: 100%;
+
+}
+.site-slogan{
+    margin-top: 50px;
+    font-size: 30px;
+    width: 420px;
+    text-align: center;
+    color: #3581B8;
+}
+h5{
+    color:#388087;
+    text-transform: uppercase;
+    font-weight: bold;
+}
